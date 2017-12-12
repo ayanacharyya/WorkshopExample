@@ -15,6 +15,8 @@ To use this framework you will need to:
 
 
 1. Replace my email (ayanacharyya@gmail.com) with your own.
+
+
 2. Replace all instances of ayanacharyya & ayanacharyya, with your own username (case insensitive replace).
 3. Replace my name (Samuel Hinton) with yours (used in the doc and license).
 3. Update the project name if you rename it. (At this point, should have edits to .travis.yml, setup.py, README.md, conf.py, LICENSE.)
