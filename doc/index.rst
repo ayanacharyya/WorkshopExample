@@ -1,6 +1,7 @@
 
 Welcome to some_module's documentation!
 =======================================
+This documentation was initially made by samreay but modified by me for testing purposes.
 
 I made this little project so people could easily fork, update the name and author,
 enable a few web hooks, and have a project which had well defined testing, documentation,
